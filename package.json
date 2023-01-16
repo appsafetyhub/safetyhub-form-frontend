@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@appsafetyhub/safetyhub-form-creator": "^0.0.1",
+    "@appsafetyhub/safetyhub-form-creator": "^0.0.4",
     "axios": "^1.2.2",
     "browser-image-compression": "^2.0.0",
     "react": "^17.0.1",
